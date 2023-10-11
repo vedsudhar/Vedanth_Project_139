@@ -1,0 +1,20 @@
+.heading
+{
+font-size: 28px;
+width: 100%;
+margin: 0px;
+color:brown;
+}
+
+a 
+{
+    border-radius: 25px;
+    background-color:chocolate;
+    color: black;
+    font-size: 15px;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
